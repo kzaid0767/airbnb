@@ -1,0 +1,52 @@
+
+
+.pic-div{
+    width: 11rem;
+    height: 14.6875rem;
+    border-radius: 9px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pic-text{
+    border-radius: 2px;
+    background: #FFFFFF;
+    display: inline-block;
+    margin: 5px;
+    padding: 1px 4px;
+}
+
+.card-text{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 110%;
+    /* identical to box height, or 13px */
+    color: #222222
+}
+
+.red-star-content{
+    margin-top: 0.8rem;
+    display: flex;
+    height: 0.875rem;
+    align-items: center;
+}
+
+.red-star-content p{
+    font-weight: 300;
+    font-size: 0.75rem;
+    line-height: 110%;
+}
+
+.red-star{
+    width: 0.875rem;
+    margin-right: 0.3rem;
+}
+.rating-span{
+    color: #918E9B;
+    font-weight: 300;
+}
+span{
+    font-weight: 600;
+}
+
